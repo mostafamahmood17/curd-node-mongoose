@@ -59,10 +59,5 @@ module.exports.getById = async (req, res, next) => {
     }
   };
 
-//   "_id": "5fe711d11952340ad22c15dd",
-//   "county": "santa barbara",
-//   "city": "santa barbara",
-//   "officialName": "Samiul Jonson",
-//   "createdAt": "2020-12-26T10:34:57.405Z",
-//   "updatedAt": "2020-12-26T10:34:57.405Z"
+
 

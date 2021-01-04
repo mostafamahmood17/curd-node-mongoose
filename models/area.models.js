@@ -25,3 +25,9 @@ const areaSchema = new Schema({
 
 
 module.exports = mongoose.model('Area', areaSchema);
+
+// {
+//     "name":"mostafa",
+//     "email":"taat.heritage2@gmail.com",
+//     "password":"Qwerty"
+//     }

@@ -1,4 +1,4 @@
-const Area = require('../models/area.models');
+const Area = require('../models/Area.models');
 
 module.exports.create = area => {
     return Area.create(area);
