@@ -36,7 +36,7 @@ module.exports.register = async (req, res, next) => {
 
         const token = await jwt.sign({
             data: userObj
-        }, process.env.JWT_SECRET,{
+        }, process.env. JWT_SECRET,{
             expiresIn: '24h'
         });
 
